@@ -1,4 +1,5 @@
- Les exercices
+LE PROJET
+
 Voici ce qui va se passer pour cet exercice : pour chaque sous-partie, nous allons te demander de créer un programme, et de soit répondre à des questions, soit de le faire marcher.
 
 Nous te conseillons de tout mettre dans un joli repo Git, afin que tu t'entraines avec le programme de versionning.
